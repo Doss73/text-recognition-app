@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRecognitionOfCalls", "TextRecognitionOfCalls\TextRecognitionOfCalls.csproj", "{90DD12A2-E2FF-4673-AE5B-BAE502613FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DD12A2-E2FF-4673-AE5B-BAE502613FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DD12A2-E2FF-4673-AE5B-BAE502613FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DD12A2-E2FF-4673-AE5B-BAE502613FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DD12A2-E2FF-4673-AE5B-BAE502613FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE582E8-831F-4532-80D9-BE7F146619A3}
+	EndGlobalSection
+EndGlobal

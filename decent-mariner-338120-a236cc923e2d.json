@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "decent-mariner-338120",
+  "private_key_id": "a236cc923e2d4ba0cb08db81fa3b8761d7be5fdd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjcYDkXuCAvFD8\n9qSSFizrot9hrshiHF/sOt8kjsq3WZ/q3h4GJcqJm6ML+tuuRrwbEIUU79lDLqju\nj8zqU7pgiKLxYr5s7V6o3c/s+wF+xfL1uXCKe/ccSuZ3FoCd+k/NFzycxPDbV1SL\nk6ETbahQt3gcuF0p9EYmqPwEvo0A2SPQl3nt/HX2JThzKortxCxTwh1Hcd8vWhgU\nO6Jz3yrxdkRfWnvPik3fQ4Ofse1LMIeu8YYrdZ7Gir0DTfMFx/DJmVGR9OQj5yA6\nISeqNN1gwHIWFzqms+qm4jpbSObsRIvrcBVP367O0uqdXv0UxRIB+YKgoT3NTRs3\nxMzzQWRRAgMBAAECggEAGsxd91PNGJ6H4uon0qIbLGmQmcoYJeoEGk4Oz0YwW76w\nt0hDAPwKSOTBZ5HymhET/5YGVAf9hgPtA+yFCzi+Oty8ZrqrgV2sIyD3WiJPvPME\n4qBMoRAxVKy9O/JvFTf5BKYWNJgf677WaGpEw1Q8ADwM0By0fdAE/oq/g6Ggqe4t\nAt5EtGWDRLg9hB2d3kaKzcOP8oeMbubpucBc+Q92lubqpHdZL9gW36rb7ROYnHnG\nMFlmLOBQmJR3hPVGvpGx+W1FDspjXMr7hfSUL52psJnDko61BL5h+h/n1ogtpEMT\n30hWbeqTQR7yXXJDsdjUIWMriArYwVRRleyLCleHdwKBgQDiTuQgbMn/DhVaOZoi\n06xsRyOhdaq/T1jfQTvhjlWcxOd3TKQkBEODfuhuNO91SHXjCUCwnKA1XZVMRt0w\nf801T+XB+VJd7/zopNMxVAd70LjN79bqXI7q2yT9hb7r5nFfU3c/7WckNlJZhXHp\nzEV0q1DFJa6xFZad0N5GCrmQVwKBgQC44yVMOApjgh6DoDrqNPru6mMlKGC9+MX+\nHj6qyjNtpUwd6RSG9flt1pCHyQrUWbmRMSp0a9YmpVzhqc2YzKeP3N/lyi2RpVgl\nJR2AQrd7KsRxEz63MsB0/E6cs/6YM9j10FipBLk+PEBNVC+EUzf9DtKl/Bydmsbl\nB76iebAnlwKBgF46qxI1OgZRPuLKiTtnF6weEt/vtqDh0QdkiiJouY0FD7vE1bOJ\ncvMVrIH22J3lBfD6sUzYanzN8pRIDWFcVX2VPv19aqZiftP/jVBExLjxN4HIE5yR\n3ZA8nzJQtiZTVXFzt3uOxht14uQThFLtEx55FrB/+DUT4BrmFSbk4E8RAoGAfexX\nDt5sVPHejo+nELUc43RIKpqhqUGyuC0pSXGGLXuTqBuDm5gUVjb5IUJQWejydm0i\nGUEJDjE6XYglO5jH1zf8Vqmo97XBnyr0ONM33G94c/tDj8rFQehGMnx1PnyxnFpW\nyGcrM7Qdp41a/6keTQC3f82CP+WW6Y6ozEhNLekCgYEA06RAncPloopjH6AuEUH/\n3WU9m01TgF2aKJ7xT+YkVeC/YLi1xuTkAsICcCA9x7poyQsxI67HqQLyS70RutRP\n0DlwzHBowgeLM+yG9JnYBXXzzx1n8wwleBDPTdrl3byc5ukjVdTENV5MhnKz4dcu\ns9KtPKLF5tlJBfaBalcwHng=\n-----END PRIVATE KEY-----\n",
+  "client_email": "callstotext@decent-mariner-338120.iam.gserviceaccount.com",
+  "client_id": "106756511910059942012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/callstotext%40decent-mariner-338120.iam.gserviceaccount.com"
+}
